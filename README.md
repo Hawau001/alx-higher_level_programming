@@ -1,1 +1,1 @@
-hello python
+PYTHON_IS_FUN
